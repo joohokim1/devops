@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "skt-jhkim-s3-tf-state" {
+resource "aws_s3_bucket" "skt-user17-test-s3-tf-state" {
 
   bucket = "skt-user17-test-s3-bucket-tfstate"
 
