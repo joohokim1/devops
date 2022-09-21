@@ -54,7 +54,7 @@ jobs:
 
       - name: git push
         run: |
-          git config --global user.email "teamsprint@gmail.com"
+          git config --global user.email "jooho.kim@sk.com"
           git config --global user.name "joohokim1"
           git pull origin main
           git add values.yaml
