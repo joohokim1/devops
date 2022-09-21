@@ -2,7 +2,7 @@ name: CI/CD Pipeline
 
 on:
   push:
-    branches: [ develop ]
+    branches: [ develop  ]
 
 env:
   ecr-repo: 255380800200.dkr.ecr.ap-southeast-1.amazonaws.com/skt-user17
